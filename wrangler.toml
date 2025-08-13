@@ -1,4 +1,4 @@
-name = "kv-api-worker"
+name = "kv-api"
 main = "index.js"
 compatibility_date = "2025-08-13"
 
